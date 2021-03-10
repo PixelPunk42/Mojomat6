@@ -172,6 +172,16 @@ class MojomatContainerTest extends org.scalatest.funsuite.AnyFunSuite {
     }
   }
 
+  test("MojomatContainer.getMojo returns calculated mojo") {
+    val samples = List[Sample]()
+    val mojo = MojomatContainer.getMojo(samples)
+
+    mojo match {
+      case Some(value) => assert(true)
+      case None => assert(false)
+    }
+  }
+
   def almostEquals(x: Float, y: Float) = {
     val precision = 0.01
     if ((x - y).abs < precision) true else false

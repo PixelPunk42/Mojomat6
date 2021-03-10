@@ -37,4 +37,11 @@ object Mojomat6 extends App {
     case Some(value) => println(value)
     case None => println("ERROR: Temperature probe not connected.")
   }
+
+  println("\nCalculation Mojo")
+  val mojo = MojomatContainer.getMojo(samples)
+  mojo match {
+    case Some(value) => println(value)
+    case None => println("ERROR: Mojo could not be calculated")
+  }
 }

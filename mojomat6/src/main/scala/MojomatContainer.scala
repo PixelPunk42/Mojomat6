@@ -34,6 +34,11 @@ object MojomatContainer {
     }
   }
 
+  def getMojo(samples: List[Sample]): Option[Mojo] = {
+    // TODO: calculate Mojo
+    None
+  }
+
   def getTemperature: Option[Temperature] = {
     // TODO: get temp from sensor
     None
