@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging D:\#Coding\Mojomat6\mojomat6\target\scala-2.13\mojomat6_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BaseSensor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\#Coding\Mojomat6\mojomat6\target\scala-2.13\classes\BaseSensor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CalculationResult$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\#Coding\Mojomat6\mojomat6\target\scala-2.13\classes\CalculationResult$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CalculationResult.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\#Coding\Mojomat6\mojomat6\target\scala-2.13\classes\CalculationResult.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Mojo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\#Coding\Mojomat6\mojomat6\target\scala-2.13\classes\Mojo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Mojo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\#Coding\Mojomat6\mojomat6\target\scala-2.13\classes\Mojo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Mojomat6$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\#Coding\Mojomat6\mojomat6\target\scala-2.13\classes\Mojomat6$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Mojomat6$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\#Coding\Mojomat6\mojomat6\target\scala-2.13\classes\Mojomat6$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Mojomat6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\#Coding\Mojomat6\mojomat6\target\scala-2.13\classes\Mojomat6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MojomatContainer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\#Coding\Mojomat6\mojomat6\target\scala-2.13\classes\MojomatContainer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MojomatContainer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\#Coding\Mojomat6\mojomat6\target\scala-2.13\classes\MojomatContainer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Randomizer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\#Coding\Mojomat6\mojomat6\target\scala-2.13\classes\Randomizer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Randomizer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\#Coding\Mojomat6\mojomat6\target\scala-2.13\classes\Randomizer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\#Coding\Mojomat6\mojomat6\target\scala-2.13\classes\Sample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\#Coding\Mojomat6\mojomat6\target\scala-2.13\classes\Sample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Temperature$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\#Coding\Mojomat6\mojomat6\target\scala-2.13\classes\Temperature$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Temperature.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\#Coding\Mojomat6\mojomat6\target\scala-2.13\classes\Temperature.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

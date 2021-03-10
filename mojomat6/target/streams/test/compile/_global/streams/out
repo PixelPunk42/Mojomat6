@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mD:\#Coding\Mojomat6\mojomat6\src\test\scala\MojomatContainerTest.scala:66:41: value timeStamp is not a member of Option[CalculationResult[Int]][0m
+[0m[[0m[31merror[0m] [0m[0m      case Some(value) => assert(result.timeStamp == date1)[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

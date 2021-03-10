@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MojomatContainerTest, org.scalatest.tools.Framework$$anon$1@493885a3, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMojomatContainerTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- MojomatContainer.getAverageWeight calculates correct average value[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- MojomatContainer.getAverageWeight result shows correct timestamp[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- MojomatContainer.getAverageWeight returns None if fed with empty list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- MojomatContainer.getTotalWeight calculates correct total value [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- MojomatContainer.getTotalWeight result shows correct timestamp[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- MojomatContainer.getTotalWeight returns None if fed with empty list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- MojomatContainer.getSampleCount returns correct # of samples[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- MojomatContainer.getSampleCount result shows correct timestamp[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- MojomatContainer.getSampleCount returns None if fed with empty list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- MojomatContainer.getTemperature returns current temp *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  org.scalatest.exceptions.TestFailedException was thrown. (MojomatContainerTest.scala:171)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 361 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 9, failed 1, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 1 TEST FAILED ***[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	MojomatContainerTest[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m
